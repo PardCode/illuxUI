@@ -1,5 +1,6 @@
 illuxUI - C++ GUI Framework
 ==================================
+![](Media/illuxui_screen.jpg)
 ![CPP11](https://img.shields.io/badge/C++->=11-blue)
 [![Join Discord Server](https://img.shields.io/badge/Chat-Discord-9cf)](https://discord.gg/zXA8ypu)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
@@ -31,6 +32,5 @@ For these reasons, **illuxUI will be soon released as a standalone framework**.
 
 ### Features ###
 - Multiple Windows System
-![](illuxui_1.jpg)
 - Dockable Panels System
 - Many types of controls already introduced: Buttons, TextBoxes, TreeViews, ScrollBars, MenuBar, Context Menu etc.
